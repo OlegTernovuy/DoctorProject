@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
+
+.containerVac {
+  max-width: 750px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+.vaccination {
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.vacList {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #e4f2ff;
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
+
+.vacList1 {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #f2fcff;
+  /* border-bottom: #9ddbff solid 2px; */
+  margin-bottom: 5px;
+  border-radius: 15px;
+}
+
+.vacName {
+  color: #696969;
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+}
+
+.PoslugaPrice {
+  color: #65c1e6;
+  font-family: "Roboto Mono", monospace;
+  padding-left: 20px;
+}
+
+.PoslugaPrice button {
+  outline: unset;
+  border: none;
+  background-color: unset;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+/*Button add Price*/
+
+.addVacButton {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.addVacButton button {
+  font-size: 18px;
+  background-color: #fff;
+  border-radius: 20px;
+  border: #000 solid 2px;
+  color: #000;
+  padding: 5px 10px;
+}
+
+.addVacButton button:hover {
+  background-color: #e4f2ff;
+  /* color: #fff; */
+  border: #e4f2ff solid 2px;
+}
+
+/*waitDownl*/
+
+.waitDownl {
+  display: flex;
+  justify-content: center;
+}
+
+/*wait download*/
+
+.price {
+  position: relative;
+}
+
+.preLoader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /* color: black; */
+}
+
+.price .css-18lrjg1-MuiCircularProgress-root {
+  color: black;
+}

@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+.containerDeclaration {
+    margin: 0;
+    padding: 0;
+}
+
+.titleDeclaration {
+    /* display: flex; */
+    text-align: center;
+}
+
+.titleDeclaration h1 {
+    margin: 25px 0;
+    font-family: "Roboto Mono", monospace;
+    font-size: 50px;
+}
+
+.titleDeclaration p {
+    margin: 0 10px;
+    font-size: 17px;
+    font-family: "Roboto Mono", monospace;
+}
+
+/*--------------------*/
+
+.titleList {
+    text-align: center;
+    margin: 60px 0 0 25px;
+    font-family: "Roboto Mono", monospace;
+}
+
+.titleList h2 {
+    font-size: 40px;
+    color: #2fb8c2;
+}
+
+.list {
+    width: 750px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.listCard {
+    display: flex;
+    border-top: 1px solid rgb(179, 179, 179);
+    padding: 25px 0;
+}
+
+.listCard img {
+    margin-right: 70px;
+    color: #65c1e6;
+}
+
+.listCard p {
+    font-family: 'Raleway', sans-serif;
+}
+
+@media(max-width: 992px) {
+    .list {
+        width: 100%;
+        margin: 0;
+    }
+}

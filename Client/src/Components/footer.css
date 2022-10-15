@@ -1,0 +1,95 @@
+.Social {
+  background-color: rgba(249, 249, 249);
+  color: #757575;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.SocialName {
+  padding: 20px 0 20px 30px;
+}
+
+.SocialLink {
+  padding-right: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.SocialLinks {
+  padding-right: 10px;
+}
+
+.polosa {
+  border-bottom: 1px solid #b4b4b4;
+}
+
+@media (max-width: 992px) {
+  footer {
+    text-align: center;
+  }
+}
+
+.about {
+  display: flex;
+  justify-content: space-around;
+  color: #757575;
+  background-color: rgba(249, 249, 249);
+  padding: 30px 0 30px;
+}
+
+@media (max-width: 992px) {
+  .about {
+    display: flow-root;
+    max-width: 100%;
+    color: #757575;
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+}
+
+@media (min-width: 992px) {
+  .textAbout {
+    max-width: 300px;
+    text-align: start;
+  }
+}
+
+.textAbout p {
+  padding-left: 10px;
+}
+
+.products p {
+  padding-left: 10px;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+}
+
+.links a {
+  margin-bottom: 16px;
+  padding-left: 10px;
+  text-decoration: none;
+  color: #757575;
+}
+
+.contact p {
+  padding-left: 10px;
+}
+
+.footerIcons {
+  padding-right: 5px;
+}
+
+.footFoot {
+  padding: 20px 0 20px;
+  background-color: rgb(226, 226, 226);
+  text-align: center;
+}
+
+.footFoot a {
+  text-decoration: none;
+  color: black;
+  padding-left: 5px;
+}

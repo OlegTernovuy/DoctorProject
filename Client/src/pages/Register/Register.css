@@ -1,0 +1,48 @@
+.RegisterForm {
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .RegisterForm div + div {
+    margin-top: 10px;
+  }
+  
+  .RegisterForm h2 {
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .RegisterFormInput {
+    width: 100%;
+    padding: 4px 5px;
+    border-radius: 8px;
+    border: 1px solid rgb(138, 136, 136);
+  }
+  
+  .RegisterFormInput:focus::placeholder {
+    color: transparent;
+  }
+  
+  .BlackBtn {
+    padding: 5px 15px;
+    border-radius: 16px;
+    border: 1px;
+    background-color: black;
+    color: white;
+    transition: 0.2s;
+  }
+  
+  .BlackBtn:hover {
+    background-color: rgba(1, 1, 1, 0.8);
+  }
+  
+  .RegisterForm button {
+    width: 100%;
+  }
+
+  .RegisterForm p {
+      margin-top: 10px;
+  }
+  

@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:ital@1&display=swap");
+
+.containerPatients {
+  max-width: 1000px;
+  /* background-color: cadetblue; */
+  /* display: flex; */
+  /* flex-direction: row; */
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  position: relative;
+}
+
+.titleTable {
+  font-family: "Roboto Mono", monospace;
+  font-size: 40px;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.titleAppo {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #e4f2ff;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  /* width: 100%; */
+}
+
+.listPatients {
+  font-size: 18px;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  background-color: #f2fcff;
+  margin-bottom: 5px;
+  border-radius: 15px;
+
+  /* width: 100%;
+  text-align: center; */
+}
+
+.appo {
+  color: #000;
+  font-weight: 500;
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+}
+
+.Patient {
+  color: #696969;
+  font-family: "Roboto Mono", monospace;
+  font-size: 18px;
+}
+
+@media (max-width: 992px) {
+  .Patient {
+    font-size: 12px;
+  }
+}
+
+/*button downloal info patients firebase*/
+
+.downlAppo {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.downlAppo button {
+  font-size: 18px;
+  background-color: #fff;
+  border-radius: 20px;
+  border: #000 solid 2px;
+  color: #000;
+  padding: 5px 10px;
+}
+
+.downlAppo button:hover {
+  background-color: #e4f2ff;
+  /* color: #fff; */
+  border: #e4f2ff solid 2px;
+}

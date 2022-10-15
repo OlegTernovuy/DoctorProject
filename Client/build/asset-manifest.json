@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3a0f37f4.css",
+    "main.js": "/static/js/main.683be15d.js",
+    "static/js/787.fa4bc9d7.chunk.js": "/static/js/787.fa4bc9d7.chunk.js",
+    "static/media/opalko.jpeg": "/static/media/opalko.68b022b6d5b5af131d3b.jpeg",
+    "static/media/bg.jpeg": "/static/media/bg.3e629e8585fde56b72be.jpeg",
+    "static/media/doctor.svg": "/static/media/doctor.754c0d35c9383824d163c15353cb469f.svg",
+    "static/media/innovacionnye-metodiki.svg": "/static/media/innovacionnye-metodiki.8ba13c4b030cb6e6e5acdbf544bc8628.svg",
+    "static/media/3.svg": "/static/media/3.30c96482a62540b8a5d1e55821eb28ae.svg",
+    "static/media/vrach.svg": "/static/media/vrach.ffc22e376c161661151b979fe86280d7.svg",
+    "static/media/2.svg": "/static/media/2.1ab2fab7c95430a5b35ec8ef244981cd.svg",
+    "static/media/recipe.svg": "/static/media/recipe.736cead53c60cef644054ce23790a308.svg",
+    "static/media/oborudovanie.svg": "/static/media/oborudovanie.9ada65b09716217dd5a01e4462fc8b81.svg",
+    "static/media/call2.svg": "/static/media/call2.7e44a5d60d245154b65a67b812f82b67.svg",
+    "static/media/bezopasnye-procedury.svg": "/static/media/bezopasnye-procedury.9e16e05304b3c5d16bc0ee37034e943b.svg",
+    "index.html": "/index.html",
+    "static/media/call.svg": "/static/media/call.0f00460152e4a645e39332dd668e2e7d.svg",
+    "static/media/twitter.svg": "/static/media/twitter.62976c081dee9df5e089714a43f81083.svg",
+    "static/media/home.svg": "/static/media/home.9dcf72a7c22567ddaa4c14825a511396.svg",
+    "static/media/instagram.svg": "/static/media/instagram.3f986527d185ed9ef19e215f7637f59f.svg",
+    "static/media/laboratory.svg": "/static/media/laboratory.fc99f640c1dd4a20754271a6f583573d.svg",
+    "static/media/location-outline.svg": "/static/media/location-outline.13e7074af7d5c980dc9c1c49b4d937be.svg",
+    "static/media/facebook.svg": "/static/media/facebook.84318d1245b58f3c15c8fe7a85568b74.svg",
+    "static/media/4.svg": "/static/media/4.7ab5842bef1ae37ec99c6f8408a62b71.svg",
+    "static/media/mail.svg": "/static/media/mail.e3684055e864e840d4ef07f5ef9a8c3f.svg",
+    "static/media/time-outline (1).svg": "/static/media/time-outline (1).77867625ec9647a612dfa37340092b3e.svg",
+    "static/media/pulse.svg": "/static/media/pulse.f9f861e01ad727def62f54a68bb497b5.svg",
+    "static/media/1.svg": "/static/media/1.a7164cc7d9df12e61366f8e221051df6.svg",
+    "main.3a0f37f4.css.map": "/static/css/main.3a0f37f4.css.map",
+    "main.683be15d.js.map": "/static/js/main.683be15d.js.map",
+    "787.fa4bc9d7.chunk.js.map": "/static/js/787.fa4bc9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a0f37f4.css",
+    "static/js/main.683be15d.js"
+  ]
+}

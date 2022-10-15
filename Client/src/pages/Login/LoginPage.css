@@ -1,0 +1,58 @@
+.loginForm {
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.loginForm div + div {
+  margin-top: 10px;
+}
+
+.RegisterFormInput {
+  background-color: #e4f2ff;
+}
+
+.formRedirect {
+  margin: 0 auto 10;
+  text-align: center;
+}
+
+.formRedirect a {
+  text-decoration: none;
+  color: black;
+}
+
+.formRedirect a:hover {
+  color: #46aff5;
+}
+
+.loginFormInput {
+  width: 100%;
+  padding: 4px 5px;
+  border-radius: 8px;
+  border: 1px solid rgb(138, 136, 136);
+}
+
+.loginFormInput:focus::placeholder {
+  color: transparent;
+}
+
+.BlackBtn {
+  padding: 5px 15px;
+  border-radius: 16px;
+  border: 1px;
+  background-color: black;
+  color: white;
+  transition: 0.2s;
+  font-size: 17px;
+}
+
+.BlackBtn:hover {
+  background-color: rgba(1, 1, 1, 0.8);
+}
+
+.loginForm button {
+  width: 100%;
+}
+
